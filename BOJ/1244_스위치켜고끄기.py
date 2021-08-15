@@ -15,7 +15,8 @@ for i in range(students):
     else:
         k = 0
         while True:
-            if 0 <= (number - 1 - k) and (number - 1 + k) <= len(switch) and switch[number - 1 + k] == switch[number - 1 - k]: # 인덱스 범위가 0부터 len(switch) 안에 있고 앞 뒤 값이 같을 경우
+            # 인덱스 범위가 0부터 len(switch) 안에 있고 앞 뒤 값이 같을 경우
+            if 0 <= (number - 1 - k) and (number - 1 + k) <= len(switch) and switch[number - 1 + k] == switch[number - 1 - k]:
                 if switch[number - 1 + k]:
                     switch[number -1 + k] = switch[number -1 - k] = 0   # 1이면 0으로
                 else:
