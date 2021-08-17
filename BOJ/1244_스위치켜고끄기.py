@@ -25,4 +25,7 @@ for i in range(students):
             else:   # 3가지 조건을 하나라도 충족시키지 못하면 break
                 break
 
-print(" ".join(map(str, (switch))))
+for i in range(N):
+  print(switch[i], end=' ')
+  if not (i+1) % 20:
+    print()
