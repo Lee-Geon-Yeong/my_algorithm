@@ -15,7 +15,7 @@ mid = max_idx   # 3
 
 cnt = arr[max_idx][1]
 
-for i in range(mid):    # 0, 1, 2
+for i in range(mid):
     if arr[i][1] <= arr[i+1][1]:
         cnt += (arr[i+1][0]-arr[i][0]) * arr[i][1]
     else:
@@ -23,7 +23,7 @@ for i in range(mid):    # 0, 1, 2
         cnt += (arr[i+1][0]-arr[i][0]) * arr[i][1]
 
 
-for i in range(N-1, mid, -1):     # 6, 5, 4
+for i in range(N-1, mid, -1):
     if arr[i][1] <= arr[i-1][1]:
         cnt += (arr[i][0]-arr[i-1][0]) * arr[i][1]
     else:

@@ -4,7 +4,6 @@
     <list default="true" id="8adc975f-727e-4442-b953-1126d0be37a6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BOJ/2304_창고_다각형.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/2304_창고_다각형.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/input.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +16,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BOJ/2304_창고_다각형.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="230">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -26,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BOJ/2559_수열.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="299">
+              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -112,22 +111,24 @@
         <option value="$PROJECT_DIR$/BOJ/2635_수이어가기.py" />
         <option value="$PROJECT_DIR$/BOJ/2304_창고다각형.py" />
         <option value="$PROJECT_DIR$/BOJ/1244_스위치켜고끄기.py" />
-        <option value="$PROJECT_DIR$/BOJ/2304_창고_다각형.py" />
         <option value="$PROJECT_DIR$/BOJ/input.txt" />
         <option value="$PROJECT_DIR$/BOJ/2559_수열.py" />
+        <option value="$PROJECT_DIR$/BOJ/2304_창고_다각형.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="830" />
-    <option name="width" value="1098" />
-    <option name="height" value="1038" />
+    <option name="x" value="327" />
+    <option name="y" value="15" />
+    <option name="width" value="1112" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,16 +141,10 @@
               <item name="my_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="BOJ" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="my_algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="DFS_BFS" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -303,8 +298,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15730338" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15730338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -338,6 +334,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DFS_BFS/괄호변환.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFS_BFS/BFS.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFS_BFS/DFS.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/../algorithm/0817/1216_palindrome2/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -366,22 +371,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DFS_BFS/괄호변환.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DFS_BFS/BFS.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DFS_BFS/DFS.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BOJ/2304_창고_다각형.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BOJ/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -389,10 +378,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BOJ/2304_창고_다각형.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BOJ/2559_수열.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="299">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>

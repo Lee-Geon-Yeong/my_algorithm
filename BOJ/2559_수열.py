@@ -14,4 +14,5 @@ for i in range(K, N):
     if max_num < result:
         max_num = result
 
+
 print(max_num)
