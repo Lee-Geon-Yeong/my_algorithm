@@ -22,7 +22,6 @@ for i in range(mid):
         arr[i+1][1] = arr[i][1]
         cnt += (arr[i+1][0]-arr[i][0]) * arr[i][1]
 
-
 for i in range(N-1, mid, -1):
     if arr[i][1] <= arr[i-1][1]:
         cnt += (arr[i][0]-arr[i-1][0]) * arr[i][1]
