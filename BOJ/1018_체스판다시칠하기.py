@@ -9,6 +9,7 @@ for i in range(N):
 pattern = []
 cnt = 0
 result = 64
+
 for i in range(N - 8 + 1): # 10 - 8 = 2 + 1 -> 0부터 2까지
     for j in range(M - 8 + 1): # 13 - 8 = 5 + 1 -> 0부터 5까지
         if chess[i][j] == 'W': # 시작점이 W일 때 짝수는 WB, 홀수는 BW
