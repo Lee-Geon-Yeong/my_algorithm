@@ -8,6 +8,7 @@ for tc in range(T):
     arr = list(map(int, input().split()))
     result=[0] * 1000 # 변수 count 해 줄 빈 리스트 선언
 
+
     for i in range(1000):
         result[arr[i]] += 1 # arr 배열의 각 원소에 해당하는 값의 index에 숫자 추가
 
