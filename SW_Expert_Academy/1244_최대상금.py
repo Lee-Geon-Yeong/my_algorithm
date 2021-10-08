@@ -21,4 +21,3 @@ for tc in range(4):
         reward[start], reward[idx] = reward[idx], reward[start] 
 
     print(reward)
-
